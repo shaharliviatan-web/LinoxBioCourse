@@ -1,0 +1,76 @@
+    1  ls
+    2  cd ..
+    3  ls
+    4  cd ..
+    5  ls
+    6  cd ..
+    7  ls 
+    8  cd workspaces/LinoxBioCourse/
+    9  mkdir Lab02
+   10  cd Lab02/
+   11  cd ..
+   12  cd Lab02
+   13  touch log1.log
+   14  ls 
+   15  ls -la 
+   16  clear 
+   17  date 
+   18  date > log1.log
+   19  ls -lh >> log1.log
+   20  cd ..
+   21  ls Lab02/ >> Lab02/log1.log 
+   22  ls .. 
+   23  echo "fuck" >> Lab02/log1.log 
+   24  echo "3333""
+   25  echo "333
+333"
+   26  "  
+
+
+4 
+4
+ 4
+ " 
+   27  echo "
+4
+4
+5
+6
+5555"
+   28  clear 
+   29  echo "2
+
+"
+   30  echo 2
+   31  echo www
+   32  echo "ww ww " 
+   33  echo date 
+   34  date
+   35  echo "date:   `date`" 
+   36  echo "$date"
+   37  echo "`date`" 
+   38  echo "$(date)"
+   39  cat >> Lab02/log1.log 
+   40  cd Lab02/
+   41  ls
+   42  echo "w s l 
+rrrr
+dddf 
+`date
+echo "w s l 
+rrrr
+dddf 
+`date`
+finish" >> log1.log
+"
+"
+   43  cat www >> log1.log 
+   44  cat "www" >> log1.log 
+   45  cat log1.log 
+   46  cat log1.log > log2.log
+   47  mkdir Backup
+   48  cp *.log Backup/
+   49  touch ../history.txt
+   50  mv ../history.txt Backup/
+   51  mv Backup/history.txt Backup/history_ShaharLiviatan_208255547.txt
+   52  history >> Backup/history_ShaharLiviatan_208255547.txt 
